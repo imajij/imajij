@@ -10,7 +10,7 @@
 
 ## 💫 About Me
 
-- 🔭 I'm currently working on **[Lost & Found Platform](https://github.com/imajij/ScalerEsports)**
+- 🔭 I'm currently working on **[Esports management website](https://github.com/imajij/ScalerEsports)**
 - 🌱 I'm currently learning **Go & Advanced DSA**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **MERN Stack, React, and Java**
@@ -24,9 +24,7 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
