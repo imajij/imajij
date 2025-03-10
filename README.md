@@ -6,7 +6,7 @@
 - 🎯 Learning Data Structures & Algorithms
 
 ### 🔥 GitHub Stats
-![Ajij's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajij01&show_icons=true&theme=radical)
+![Ajij's GitHub stats](https://github-readme-stats.vercel.app/api?username=imajij&show_icons=true&theme=radical)
 
 ### 📊 GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ajij01&theme=radical)](https://git.io/streak-stats)
