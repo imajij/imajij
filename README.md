@@ -48,7 +48,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=imajij&theme=nord&column=7" alt="GitHub Trophies" />
 </div>
 
-## 🐍 Contribution Graph
+<!-- ## 🐍 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imajij/imajij/output/github-contribution-grid-snake-dark.svg">
@@ -63,7 +63,7 @@
     <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Ajij99&repo=lost-and-found&theme=tokyonight" />
   </a>
   
-</div>
+</div> -->
 
 ## 🔗 Connect With Me
 
