@@ -69,10 +69,10 @@
 
 ```bash
 OS        -> Linux
-Editor    -> Neovim
+Editor    -> Zed
 Shell     -> Bash
 Focus     -> Backend + Systems
-Learning  -> Go & System Design
+Learning  -> Go , Rust & System Design
 ```
 
 ---
