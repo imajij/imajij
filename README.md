@@ -1,81 +1,104 @@
-# 👋 Hello, World! I'm Ajij
+# Hey 👋, I'm Ajij
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+Enthusiast;Linux+Power+User;Always+Building+Something" />
+
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ajij99&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+---
 
-## 💫 About Me
+## 🚀 About Me
 
-- 🔭 I'm currently working on **[Esports management website](https://github.com/imajij/ScalerEsports)**
-- 🌱 I'm currently learning **Go & Advanced DSA**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **MERN Stack, React, and Java**
-- 📫 How to reach me: **ajijuttam2006@gmail.com**
-  
+* 🎓 CSE Student at **Scaler School of Technology**
+* 💻 Full Stack Developer focused on **backend & scalable systems**
+* 🌱 Currently learning **Go, Advanced DSA & System Design**
+* 🐧 Linux enthusiast who loves customizing workflows
+* ⚡ Building products, experimenting with systems, and exploring low-level tech
+* 🤝 Open to collaborating on **Open Source & Full Stack Projects**
 
-## 🛠️ Tech Stack
+---
+
+## 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+<img src="https://skillicons.dev/icons?i=js,ts,java,go,cpp,python,react,nextjs,nodejs,express,mongodb,mysql,docker,linux,git,github,aws,vercel&perline=6" />
+
 </div>
+
+---
+
+## 📌 Current Projects
+
+* 🧭 Lost & Found Platform for people & pets
+* 🍔 Smart College Canteen System
+* 📱 Rental Marketplace App
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=imajij&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=imajij&layout=compact&langs_count=8&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=imajij&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imajij&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imajij&theme=tokyonight" alt="GitHub Streak Stats" />
+
+<img src="https://streak-stats.demolab.com?user=imajij&theme=tokyonight&hide_border=true" />
+
 </div>
+
+---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imajij&theme=nord&column=7" alt="GitHub Trophies" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=imajij&theme=tokyonight&no-frame=true&column=7" />
+
 </div>
 
-<!-- ## 🐍 Contribution Graph
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imajij/imajij/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imajij/imajij/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/imajij/imajij/output/github-contribution-grid-snake.svg">
-</picture>
+## 🐧 Dev Environment
 
-## 📌 Pinned Repositories
+```bash
+OS        -> Linux
+Editor    -> Neovim
+Shell     -> Bash
+Focus     -> Backend + Systems
+Learning  -> Go & System Design
+```
 
-<div align="center">
-  <a href="https://github.com/imajij/ScalerEsports">
-    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Ajij99&repo=lost-and-found&theme=tokyonight" />
-  </a>
-  
-</div> -->
+---
 
-## 🔗 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ajij-uttam-3003a3202/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://dev.to/imajij" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-  </a>
+
+<a href="https://github.com/imajij">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ajij-uttam-3003a3202/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://dev.to/imajij">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+
+### `Code • Build • Learn • Repeat`
+
 </div>
