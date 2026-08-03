@@ -1,0 +1,32 @@
+<svg viewBox="0 0 1000 40" width="1000" height="40" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#22d3ee" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="dtrail" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="1" stop-color="#67e8f9" stop-opacity="0.65"/>
+    </linearGradient>
+  </defs>
+  <line x1="0" y1="20" x2="1000" y2="20" stroke="url(#rule)" stroke-width="1.2"/>
+  <g fill="#e2e8f0">
+    <circle cx="120" cy="10" r="1"><animate attributeName="opacity" values="1;0.2;1" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="310" cy="30" r="1.2"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="540" cy="8" r="1"><animate attributeName="opacity" values="1;0.25;1" dur="2.2s" repeatCount="indefinite" begin="0.5s"/></circle>
+    <circle cx="720" cy="31" r="1.1"><animate attributeName="opacity" values="0.25;1;0.25" dur="2.9s" repeatCount="indefinite" begin="0.9s"/></circle>
+    <circle cx="900" cy="12" r="1"><animate attributeName="opacity" values="1;0.3;1" dur="3.4s" repeatCount="indefinite" begin="0.3s"/></circle>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="-80 20; 1080 20" dur="9s" repeatCount="indefinite"/>
+    <g transform="scale(0.5) translate(0,-13)">
+      <line x1="-70" y1="13" x2="2" y2="13" stroke="url(#dtrail)" stroke-width="2.4" stroke-linecap="round"/>
+      <polygon points="3,11 -12,13 3,15" fill="#fb923c">
+        <animate attributeName="opacity" values="1;0.55;1" dur="0.3s" repeatCount="indefinite"/>
+      </polygon>
+      <path d="M 96 13 L 74 8.6 L 60 8 L 46 8 L 39 1.5 L 33.5 3.5 L 38.5 8.4 L 12 10.4 L 3 13 L 12 15.6 L 38.5 17.6 L 29 24.5 L 35.5 24.9 L 46 18 L 60 18 L 74 17.4 Z" fill="#94a3b8"/>
+      <path d="M 78 9.6 L 70 8.9 L 65 9.6 L 71 11 Z" fill="#22d3ee"/>
+    </g>
+  </g>
+</svg>
