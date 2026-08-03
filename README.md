@@ -1,8 +1,9 @@
 <!--
-  SETUP
-  1. This file goes in your special profile repo:  github.com/imajij/imajij  →  README.md
-  2. Create an `assets/` folder in that same repo and add:  header.svg  and  divider.svg
-  3. GitHub renders animated SVGs natively — no external services needed for the banner.
+  SETUP — repo: github.com/imajij/imajij
+  Files in repo ROOT:      README.md · header.svg · divider.svg · footer.svg
+  Workflow file:           .github/workflows/snake.yml
+  After adding snake.yml:  Actions tab → "generate contribution snake" → Run workflow (once).
+                           It publishes the snake SVG to an `output` branch that this README embeds.
 -->
 
 <div align="center">
@@ -61,7 +62,7 @@ ajij@arch ~/mission-control
 - **[PR #2026](https://github.com/dora-rs/dora/pull/2026) · merged** — Arrow round-trip tests for four safety-critical MAVLink2 vehicle-command messages; distinct per-field sentinels catch silent field-transposition bugs
 
 <div align="center">
-  <img src="./assets/divider.svg" width="100%" alt="" />
+  <img src="./divider.svg" width="100%" alt="" />
 </div>
 
 <h2 align="center">⚔️ THE ARMORY</h2>
@@ -75,36 +76,21 @@ ajij@arch ~/mission-control
 <h2 align="center">📊 FLIGHT DATA</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imajij&show_icons=true&hide_border=true&bg_color=02060b&title_color=22d3ee&icon_color=2dd4bf&text_color=94a3b8&ring_color=22d3ee&count_private=true" height="170" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=imajij&hide_border=true&background=02060B&ring=22D3EE&fire=FB923C&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B" height="170" alt="Contribution streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imajij&layout=compact&hide_border=true&bg_color=02060b&title_color=22d3ee&text_color=94a3b8&langs_count=8" height="150" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com?user=imajij&hide_border=true&background=02060B&ring=22D3EE&fire=FB923C&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B" height="180" alt="Contribution streak" />
 </div>
 
 <br/>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/imajij/imajij/output/github-snake.svg" width="94%" alt="A patrol craft sweeping the contribution grid" />
+  <br/>
+  <sub><code>SECTOR PATROL // sweeping the contribution grid</code></sub>
+</div>
 
-```text
-                  .  *        ✦         .          *
-         ✦                 _____                ✦
-                       .-'´     `'-.
-                    .-'  o   o   o  '-.
-              ~==<{=====================}>==~
-                    '-._____________.-'
-                        \    · ·    /
-                         \   · ·   /
-                          \  · ·  /
-                           \ · · /
-                            \ · /
-                             \·/
+<br/>
 
-        ── END OF TRANSMISSION ── ajij@arch signing off ──
-           « we come in peace. we also ship to prod. »
-```
-
+<div align="center">
+  <img src="./footer.svg" width="100%" alt="End of transmission — ajij@arch signing off. We come in peace. We also ship to prod." />
+  <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=imajij&style=flat-square&color=22d3ee&label=SIGNALS+RECEIVED" alt="profile views" />
-
 </div>
