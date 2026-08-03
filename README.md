@@ -6,7 +6,7 @@
 -->
 
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Ajij Uttam — Mission Control banner: a UFO abducting a code tag while a fighter jet crosses a starfield" />
+  <img src="./header.svg" width="100%" alt="Ajij Uttam — Mission Control banner: a UFO abducting a code tag while a fighter jet crosses a starfield" />
 </div>
 
 <div align="center">
@@ -41,7 +41,7 @@ ajij@arch ~/mission-control
 ```
 
 <div align="center">
-  <img src="./assets/divider.svg" width="100%" alt="" />
+  <img src="./divider.svg" width="100%" alt="" />
 </div>
 
 ## 🛸 THE HANGAR — flagship builds
