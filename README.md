@@ -82,7 +82,7 @@ ajij@arch ~/mission-control
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/imajij/imajij/output/github-snake.svg" width="94%" alt="A patrol craft sweeping the contribution grid" />
+  <img src="https://raw.githubusercontent.com/imajij/imajij/snake.yml" width="94%" alt="A patrol craft sweeping the contribution grid" />
   <br/>
   <sub><code>SECTOR PATROL // sweeping the contribution grid</code></sub>
 </div>
