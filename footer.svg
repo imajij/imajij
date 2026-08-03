@@ -1,0 +1,57 @@
+<svg viewBox="0 0 1000 215" width="1000" height="215" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono','Fira Code',Consolas,monospace">
+  <defs>
+    <linearGradient id="fsky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0e2930"/>
+      <stop offset="0.5" stop-color="#071b21"/>
+      <stop offset="1" stop-color="#02060b"/>
+    </linearGradient>
+    <linearGradient id="fbeam" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0.03"/>
+    </linearGradient>
+    <filter id="fglow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="2.4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="215" fill="url(#fsky)"/>
+
+  <!-- stars -->
+  <g fill="#e2e8f0">
+    <circle cx="80" cy="40" r="1.3"><animate attributeName="opacity" values="1;0.2;1" dur="2.7s" repeatCount="indefinite"/></circle>
+    <circle cx="160" cy="120" r="1.0" opacity="0.6"/>
+    <circle cx="250" cy="60" r="1.4"><animate attributeName="opacity" values="0.25;1;0.25" dur="3.2s" repeatCount="indefinite" begin="0.6s"/></circle>
+    <circle cx="330" cy="160" r="1.0" opacity="0.5"/>
+    <circle cx="395" cy="34" r="1.2"><animate attributeName="opacity" values="1;0.3;1" dur="2.3s" repeatCount="indefinite" begin="1.1s"/></circle>
+    <circle cx="610" cy="42" r="1.2"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.9s" repeatCount="indefinite" begin="0.3s"/></circle>
+    <circle cx="680" cy="150" r="1.0" opacity="0.55"/>
+    <circle cx="760" cy="70" r="1.4"><animate attributeName="opacity" values="1;0.2;1" dur="3.4s" repeatCount="indefinite" begin="0.8s"/></circle>
+    <circle cx="850" cy="130" r="1.1"><animate attributeName="opacity" values="0.25;1;0.25" dur="2.5s" repeatCount="indefinite" begin="1.4s"/></circle>
+    <circle cx="930" cy="46" r="1.3"><animate attributeName="opacity" values="1;0.3;1" dur="3.0s" repeatCount="indefinite" begin="0.2s"/></circle>
+    <circle cx="510" cy="18" r="0.9" opacity="0.6"/>
+    <circle cx="60" cy="180" r="1.0" opacity="0.45"/>
+    <circle cx="945" cy="185" r="1.0" opacity="0.45"/>
+  </g>
+
+  <!-- UFO beaming the sign-off -->
+  <g transform="translate(500,46)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -6; 0 0" dur="5s" repeatCount="indefinite"/>
+      <polygon points="-16,18 16,18 140,96 -140,96" fill="url(#fbeam)">
+        <animate attributeName="opacity" values="0.55;1;0.55" dur="3.4s" repeatCount="indefinite"/>
+      </polygon>
+      <ellipse cx="0" cy="-6" rx="20" ry="15" fill="#0b2229" stroke="#67e8f9" stroke-width="1.6"/>
+      <ellipse cx="0" cy="4" rx="48" ry="13" fill="#0e2930" stroke="#22d3ee" stroke-width="1.8" filter="url(#fglow)"/>
+      <circle cx="-28" cy="6" r="2.6" fill="#22d3ee"><animate attributeName="fill" values="#22d3ee;#0e2930;#22d3ee" dur="1.2s" repeatCount="indefinite"/></circle>
+      <circle cx="-9" cy="8.5" r="2.6" fill="#0e2930"><animate attributeName="fill" values="#0e2930;#22d3ee;#0e2930" dur="1.2s" repeatCount="indefinite" begin="0.3s"/></circle>
+      <circle cx="9" cy="8.5" r="2.6" fill="#22d3ee"><animate attributeName="fill" values="#22d3ee;#0e2930;#22d3ee" dur="1.2s" repeatCount="indefinite" begin="0.6s"/></circle>
+      <circle cx="28" cy="6" r="2.6" fill="#0e2930"><animate attributeName="fill" values="#0e2930;#22d3ee;#0e2930" dur="1.2s" repeatCount="indefinite" begin="0.9s"/></circle>
+    </g>
+  </g>
+
+  <!-- sign-off -->
+  <text x="500" y="163" text-anchor="middle" font-size="17" font-weight="700" letter-spacing="5" fill="#e8fdff" filter="url(#fglow)">── END OF TRANSMISSION ──</text>
+  <text x="500" y="184" text-anchor="middle" font-size="12" letter-spacing="3" fill="#67e8f9">ajij@arch signing off <tspan fill="#22d3ee">▊<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.2s" repeatCount="indefinite" calcMode="discrete"/></tspan></text>
+  <text x="500" y="203" text-anchor="middle" font-size="12" letter-spacing="1" fill="#2dd4bf" opacity="0.9">« we come in peace. we also ship to prod. »</text>
+</svg>
